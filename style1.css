@@ -1,0 +1,158 @@
+*{
+	box-sizing: border-box;
+	text-decoration: none;
+	color: white;
+	font-family: Castellar;
+	}
+	body{
+	background-image:url(gambar/landingpage.jpg);
+	background-size: 100%;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	padding:60px 100px 0px 100px;
+
+	}
+	.row{
+		display:flex;
+		flex-wrap:wrap;
+		font-family:'Times New Roman', Times, serif;
+		}
+	.navbar{
+	flex: 30%;
+	text-align: center;
+	padding: 18px 0px 0px 0px;
+	background-color: rgba(0, 0, 0, 0.15);
+	}
+	.navbar a {
+	color: white;
+	padding: 20px 15px;
+	font-weight: bold;
+	text-align: center;
+	}
+	.navbar a:hover{
+	background-color: white;
+	color: black;
+	transition-duration: 1s;
+	}
+		.navbar2{
+		flex: 40%;
+		text-align: right;
+		padding: 18px;
+		background-color: rgba(0,0,0,0.15);
+		}
+		.navbar2 a {
+		color: white;
+		padding: 20px;
+		text-decoration: none;
+		text-align: center;
+		}
+		.navbar2 a:hover{
+		background-color: white;
+		color: black;
+		transition-duration: 1s;
+		}
+	.lognavbar{
+		flex: 50%;
+		text-align: center;
+		padding: 50px 100px 50px 100px;
+		background-color: rgba(0, 0, 0, 0.15);	
+	}
+	.lognavbar a {
+		color: white;
+		padding: 20px 15px;
+		font-weight: bold;
+		text-align: center;
+		}
+		.lognavbar a:hover{
+		background-color: white;
+		color: black;
+		transition-duration: 1s;}
+	}
+	.spasi{
+		padding: 500px;
+	}
+	}
+	.form-group{
+		flex: 50%;
+		color: black;
+		padding: 50px;
+	}
+	label{
+		padding: 10px 100px 10px 0px;
+		font-size: 8pt;
+	}
+	}
+	.form-control{
+		color: black;
+		padding: 20px;
+	}
+	.main{
+		flex: 100%;
+		flex-wrap:wrap;
+		background-color: rgba(0, 0, 0, 0.15);
+	}
+	.main h1{
+		padding: 0px 135px 0px;
+	}
+	.more{
+		display: flex;
+		flex: 50%;
+		text-align: left;
+		color: white;
+	}
+	.more p{
+		padding: 50px 0px 250px 50px;
+		font-size: 15px;
+		font-family:'Times New Roman;	
+	}
+	.logo{
+		flex: 50%;
+		text-align: center;
+		padding: 0px 100px 0px 100px;
+	}
+	.foto{
+		flex: 50%;
+		text-align: center;
+		padding: 0px 100px 0px 100px;
+	}
+	.klik{
+		background-color:rgba(0, 0, 0, 0.5);
+		background-size: 20%;
+		padding: 10px 0px 10px;
+		text-align: center;
+		color:black;
+	}
+	.klik a:hover{
+		flex-wrap:wrap;
+		background-color: rgba(0, 0, 0, 0.15);
+		color:black;
+		padding: 10px 500px;
+		transition-duration: 1s;
+	}
+	
+	
+	video{
+		z-index: -100;
+		position: fixed;
+		right: 0;
+		bottom: 0;
+		min-width: 100%;
+		min-height: 100%;
+	}
+	.galeri{
+		flex: 100%;
+		flex-wrap:wrap;
+		background-color: rgba(0, 0, 0, 0.15);
+	}
+	.gambar{
+		display: inline-block;
+		text-align: center;
+	}
+	.gambar img{
+		width: 150px;
+		height: 75px;
+		margin: 10px;
+		border: 3px solid #73AD21;
+	}
+		padding: 0px 100px 0px 100px;<span id="mce_marker" data-mce-type="bookmark" data-mce-fragment="1">​</span>
